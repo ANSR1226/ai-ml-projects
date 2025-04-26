@@ -1,1 +1,1 @@
-# AI-ML-Zone
+# ai-ml-projects
